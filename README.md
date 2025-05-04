@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @poudyalamit999
+- 👋 Hi, I’m @brohacks
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Open Source Projects
